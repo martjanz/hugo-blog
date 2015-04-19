@@ -1,0 +1,11 @@
+languageCode = "es-ar"
+title = "Esquelas"
+author = "Martianz"
+theme = "pixess"
+canonifyurls = true
+baseurl = "http://martjanz.github.io/"
+publishdir = "public"
+layoutdir = "layouts"
+
+[params]
+	twitter_username = "martianz"
