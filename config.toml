@@ -1,11 +1,14 @@
 languageCode = "es-ar"
 title = "Esquelas"
-author = "Martianz"
 theme = "pixess"
 canonifyurls = true
 baseurl = "http://martjanz.github.io/"
 publishdir = "public"
 layoutdir = "layouts"
 
+[author]
+	name = "Martín Anzorena"
+	email = "martin.anzorena@gmail.com"
+	
 [params]
 	twitter_username = "martianz"
