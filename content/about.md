@@ -1,7 +1,6 @@
 +++
-date = "2015-04-18T15:41:42-03:00"
-draft = true
-title = "Breve"
+date = "2015-04-19T06:09:42-03:00"
+title = "Qué es"
 
 +++
 Un espacio para guardar cosas sueltas.

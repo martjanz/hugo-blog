@@ -1,6 +1,3 @@
-[submodule "campomap"]
-	path = campomap
-	url = https://martjanz@github.com/martjanz/campomap.git
 [submodule "themes/pixess"]
 	path = themes/pixess
 	url = https://github.com/martjanz/pixess
