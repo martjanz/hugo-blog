@@ -12,3 +12,4 @@ layoutdir = "layouts"
 	
 [params]
 	twitter_username = "martianz"
+	google_analytics_id = "UA-62052604-1"
