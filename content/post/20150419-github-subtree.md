@@ -3,8 +3,7 @@ categories = []
 date = "2015-04-19T17:55:31-03:00"
 description = ""
 tags = ["git", "os x"]
-title = "git subtree"
-
+title = "git subtree: instalación en OS X"
 +++
 
 `git subtree` no está disponible en las instalaciones por defecto de git y puede llegar a necesitarse, por ejemplo, para mantener directorios espejados dentro de un mismo repositorio git.
