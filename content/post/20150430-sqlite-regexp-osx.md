@@ -37,15 +37,16 @@ Entonces:
 	```
 
 ##### Tercero, compilar PCRE
-	```bash
-	git clone https://github.com/ralight/sqlite3-pcre
 
-	cd sqlite3-pcre
+```bash
+git clone https://github.com/ralight/sqlite3-pcre
 
-	cc -shared -o pcre.so -I/opt/local/include -fPIC -W -Werror pcre.c -L/opt/local/lib -lpcre
+cd sqlite3-pcre
 
-	cd ..
-	```
+cc -shared -o pcre.so -I/opt/local/include -fPIC -W -Werror pcre.c -L/opt/local/lib -lpcre
+
+cd ..
+```
 
 ##### Y por último, probar que todo funcione
 1. Ejecutar SQLite
